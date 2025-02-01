@@ -1,5 +1,3 @@
-alejandr0bovino
-
 Front-end Developer in Montevideo, Uruguay
 
 <!--
